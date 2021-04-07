@@ -1,0 +1,76 @@
+5
+1
+CSC10002
+Ki thuat lap trinh
+19CLC3
+ntphuong
+Nguyen Thanh Phuong
+TS
+1
+4 14 2020
+6 16 2020
+TUE
+7 30
+11 30
+I42
+
+2
+MTH00003
+Vi tich phan 1B
+19CLC3
+nttrung
+Nguyen Tan Trung
+TS
+1
+4 14 2020
+6 16 2020
+TUE
+13 30
+17 30
+I23
+
+3
+BAA00005
+Kinh te dai cuong
+19CLC3
+htlyna
+Huynh Thi Ly Na
+ThS
+0
+4 16 2020
+6 18 2020
+THU
+13 30
+17 30
+C22
+
+4
+BAA00101
+Triet hoc Mac-Lenin
+19CLC3
+ntphuong
+Ngo Tuan Phuong
+ThS
+1
+4 13 2020
+6 15 2020
+MON
+13 30
+17 30
+C22
+
+5
+PHY00005
+Vat ly dai cuong 1
+19CLC3
+vththu
+Vu Thi Hanh Thu
+PGS.TS
+0
+4 13 2020
+6 15 2020
+MON
+7 30
+11 30
+F203
+

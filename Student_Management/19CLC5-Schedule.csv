@@ -1,0 +1,6 @@
+﻿No,Course ID,Course name,Class,Lecturer username,Lecturer name,Lecturer degree,Lecturer gender,Start date,End date,Day of week,Start hour,Start minutes,End hour,End minute,Room
+1,CSC10002,Ki thuat lap trinh,19CLC5,dbtien,Dinh Ba Tien,TS,Male,4/15/2020,6/17/2020,WED,7,30,11,30,F203
+2,MTH00003,Vi tich phan 1B,19CLC5,vdhcuong,Vu Do Huy Cuong,TS,Male,4/18/2020,6/20/2020,SAT,7,30,11,30,I23
+3,BAA00005,Kinh te dai cuong,19CLC5,htlna,Huynh Thi Ly Na,ThS,Female,4/17/2020,6/19/2020,FRI,7,30,11,30,F203
+4,BAA00101,Triet hoc Mac-Lenin,19CLC5,lvtlam,Le Vo Thanh Lam,TS,Female,4/15/2020,6/17/2020,WED,13,30,17,30,C22
+5,PHY00005,Vat ly dai cuong 1,19CLC5,vththu,Vu Thi Hanh Thu,PGS.TS,Female,4/13/2020,6/15/2020,MON,7,30,11,30,F203

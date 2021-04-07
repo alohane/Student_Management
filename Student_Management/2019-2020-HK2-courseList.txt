@@ -1,0 +1,16 @@
+5
+CSC10002
+Ki thuat lap trinh
+
+MTH00003
+Vi tich phan 1B
+
+BAA00005
+Kinh te dai cuong
+
+BAA00101
+Triet hoc Mac-Lenin
+
+PHY00005
+Vat ly dai cuong 1
+
